@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoanCalculator</string>
+    <string name="vehicle_price">Vehicle Price</string>
+    <string name="downpayment">Down Payment</string>
+    <string name="repayment">Repayment</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="salary">Salary</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="monthly_payment">Monthly Payment</string>
+    <string name="status">Status</string>
+    <string name="close">Close</string>
+    <string name="approved">Approved</string>
+    <string name="reject">Rejected</string>
+</resources>
